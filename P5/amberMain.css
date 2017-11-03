@@ -5,11 +5,11 @@ body {
     padding: 3rem 1.5rem;
     text-align: center;
   }
-  .nav-link{
-      min-width:30rem;
+   .nav-link{
       text-align: center;
+      max-width: 30rem;
+      margin: auto;
   }
-
   #home-search{
     min-width: 60rem;
   }
