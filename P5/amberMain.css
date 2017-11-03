@@ -1,0 +1,15 @@
+body {
+    padding-top: 5rem;
+  }
+  .starter-template {
+    padding: 3rem 1.5rem;
+    text-align: center;
+  }
+  .nav-link{
+      min-width:30rem;
+      text-align: center;
+  }
+
+  #nav1,#nav2{
+    border-right: .05rem solid grey;
+  }
